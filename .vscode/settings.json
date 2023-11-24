@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+  "workbench.iconTheme": "vs-seti",
+  "workbench.sideBar.location": "right",
+  "workbench.tree.renderIndentGuides": "onHover",
+  "workbench.editor.empty.hint": "text",
+  "editor.cursorStyle": "line",
+  "diffEditor.codeLens": false,
+  "diffEditor.diffAlgorithm": "advanced",
+  "files.autoSave": "onFocusChange",
+  "files.eol": "auto",
+  "workbench.editor.labelFormat": "default",
+  "workbench.editor.pinnedTabSizing": "normal",
+  "workbench.editor.splitInGroupLayout": "horizontal",
+  "workbench.settings.editor": "ui",
+  "workbench.settings.settingsSearchTocBehavior": "filter",
+  "zenMode.hideLineNumbers": true,
+  "window.density.editorTabHeight": "default",
+  "auto-close-tag.insertSpaceBeforeSelfClosingTag": false,
+  "editor.fontVariations": false
+}
